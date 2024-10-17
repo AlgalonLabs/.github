@@ -18,4 +18,4 @@ To simplify blockchain complexity through advanced data visualization and analyt
 
 ## Contact
 
-- Email: hounslowmatthew@gmail.com
+- Email: hounslow@algalonlabs.com
